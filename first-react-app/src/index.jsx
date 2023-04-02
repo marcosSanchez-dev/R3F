@@ -9,6 +9,7 @@ root.render(
   // ! A estas llaves sin tag se les llama "fragments" <> </>
 
   <>
+    <h2>Soy componente padre index.js</h2>
     <h1 className="title">Hello React</h1>
     <input type="checkbox" name="" id="the_checkbox" />
 
